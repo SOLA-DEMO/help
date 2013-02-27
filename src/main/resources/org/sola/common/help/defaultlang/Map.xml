@@ -51,6 +51,5 @@
     <mapID target="personSearch" url="howtotopics/personSearch.html" />
     <mapID target="documentSearch" url="howtotopics/documentSearch.html" />
     <mapID target="transactionedDocument" url="howtotopics/transactionedDocument.html" />
-    <mapID target="1_ext_requests_form" url="howtotopics/1_ext_requests_form.html" />
 
 </map>
